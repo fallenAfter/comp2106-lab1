@@ -12,3 +12,4 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
 - Make 1 more change to this file on your computer, then make another commit and push it to GitHub again
 - Submit a link to your Lab 1 repository on Blackboard; there should be at least 3 commits total.  The first will show this file being pushed.  The second will show the change you made online.  The 3rd will show the change you made to this file on your computer.
 -look I made a change
+-look another change
