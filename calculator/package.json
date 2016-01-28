@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator application for week 3 assaignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallenAfter/comp2106-lab2.git"
+  },
+  "author": "Brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallenAfter/comp2106-lab2/issues"
+  },
+  "homepage": "https://github.com/fallenAfter/comp2106-lab2#readme"
+}
